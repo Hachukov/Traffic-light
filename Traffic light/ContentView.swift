@@ -50,7 +50,7 @@ struct ContentView: View {
           
             Spacer()
             
-                Button("Tap") {
+                Button("TapMy") {
                     
                     switch currentLight {
                     
